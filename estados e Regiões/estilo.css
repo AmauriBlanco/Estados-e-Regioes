@@ -16,6 +16,12 @@ p{
     font-size: 1.2rem;
     
 }
+@media(max-width:550px){
+    p{
+        font-size: 1.0rem;
+    }
+}
+
 li{
     list-style-type: none;
     font-size: 1.5em;
@@ -32,6 +38,11 @@ a{
     background-color: rgba(168, 106, 70, 0.856);
     height: 50px;
     align-items: center;
+}
+@media(max-width:550px){
+    .navmenu li{
+        font-size: 1.0rem;
+    }
 }
 
 .menu a{
@@ -61,3 +72,5 @@ a{
     
     
 }
+@media(max-width:550px){
+    img{
