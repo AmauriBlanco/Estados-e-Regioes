@@ -1,0 +1,63 @@
+body h1{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom:  50px;
+    font-size: 3.5rem;
+    position: relative;
+    
+    
+}
+i{
+    font-size: 0.7em;
+}
+p{
+    margin:50px auto ;
+    text-align: center;
+    font-size: 1.2rem;
+    
+}
+li{
+    list-style-type: none;
+    font-size: 1.5em;
+}
+a{
+    margin-bottom: 15px;
+    margin-top: 50px;
+    
+}
+.navmenu{
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+    background-color: rgba(168, 106, 70, 0.856);
+    height: 50px;
+    align-items: center;
+}
+
+.menu a{
+    text-decoration:none;
+    color:#ffff;
+}
+.conteudo{
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 70%;
+    
+    
+}
+.brasil{
+    margin-top: 100px;
+    text-align: center;
+}
+.brasil a{
+    text-align:justify ;
+}
+#back{
+    position: fixed;
+    left: 95%;
+    top: 95%;
+    
+    
+}
